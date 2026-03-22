@@ -249,7 +249,7 @@ export function Projects() {
                 {/* Project Image */}
                 <div className="aspect-video bg-gradient-to-br from-primary/10 to-secondary/10 rounded-lg flex items-center justify-center my-4">
                   <div className="text-center">
-                    <div className="text-6xl mb-2">🎯</div>
+                    <div className="text-6xl mb-2"></div>
                     <p className="text-muted-foreground">{selectedProject.title}</p>
                   </div>
                 </div>
